@@ -1,7 +1,8 @@
 # Powertransformer101
+
 A lighting (or is it a power talk? I am confused...) talk on the sklearn preprocessing module powertransformers with help from the SciPy Box-Cox Module 
 
-By: Patrick Cavins 
+By: Patrick Cavins, PhD 
 
 ## Goal
 
@@ -24,6 +25,7 @@ We are actually fairly familiar with transformations, but of a different class. 
 
 *We call these linear because they are simiply a mathematic change (i.e. multplication by some constant) they **do not change the distribution of the data**
 
+
 If the goal is perhaps...
 
 - to remove heteroscedasticity?
@@ -41,8 +43,6 @@ Remember those assumptions we made in in our linear regression model?
 Herein lies the strength of the power transformers. Unlike linear transformations, a power transformation will **change the distribution** of the data. 
 
 - This can remove heteroscedasticity and make the data look more normal-like. 
-
-## How?  
 
 
 
