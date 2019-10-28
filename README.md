@@ -8,7 +8,6 @@
 - sklearn_powertranformer_codealong.ipynb (Medium Article)
 - power_transformer.ipynb (Lighting Talk) 
 - train.csv (Ames, IA Dataset)
-- 
 
 ## Goals
 Data Scientists often need Gaussian like models to use many of the most common ML Models. In these notebooks, we are going to review methods whereby we can transform non-normal/gaussian like data into data that is normal/gaussian-like.    
